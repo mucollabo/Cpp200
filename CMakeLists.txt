@@ -1,0 +1,78 @@
+cmake_minimum_required(VERSION 3.16)
+project(Cpp200)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(.)
+
+add_executable(Cpp200
+        002.cpp
+        003.cpp
+        004.cpp
+        005.cpp
+        006.cpp
+        007.cpp
+        008.cpp
+        009.cpp
+        010.cpp
+        011.cpp
+        012.cpp
+        013.cpp
+        014.cpp
+        015.cpp
+        016.cpp
+        017.cpp
+        018.cpp
+        019.cpp
+        020.cpp
+        021.cpp
+        022.cpp
+        023.cpp
+        024.cpp
+        025.cpp
+        026.cpp
+        027.cpp
+        028.cpp
+        029.cpp
+        030.cpp
+        031.cpp
+        032.cpp
+        033.cpp
+        034.cpp
+        035.cpp
+        036.cpp
+        037.cpp
+        038.cpp
+        039.cpp
+        040.cpp
+        041.cpp
+        042.cpp
+        043.cpp
+        044.cpp
+        045.cpp
+        046.cpp
+        047.cpp
+        048.cpp
+        049.cpp
+        050.cpp
+        051.cpp
+        052.cpp
+        053.cpp
+        054.cpp
+        055.cpp
+        056.cpp
+        057.cpp
+        058.cpp
+        059.cpp
+        060.cpp
+        061.cpp
+        062.cpp
+        063.cpp
+        064.cpp
+        065.cpp
+        066.cpp
+        067.cpp
+        068.cpp
+        069.cpp
+        070.cpp
+        ex001.cpp 071.cpp)

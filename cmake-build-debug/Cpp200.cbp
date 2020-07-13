@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Cpp200"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cpp200">
+				<Option output="/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Cpp200" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/charles/Documents/GitHub/Cpp200/."/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cpp200"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cpp200/fast">
+				<Option output="/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Cpp200" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/charles/Documents/GitHub/Cpp200/."/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cpp200/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/Users/charles/Documents/GitHub/Cpp200/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/002.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/003.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/004.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/005.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/006.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/007.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/008.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/009.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/010.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/011.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/012.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/013.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/014.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/015.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/016.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/017.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/018.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/019.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/020.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/021.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/022.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/023.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/024.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/025.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/026.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/027.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/028.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/029.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/030.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/031.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/032.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/033.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/034.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/035.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/036.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/037.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/038.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/039.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/040.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/041.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/042.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/043.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/044.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/045.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/046.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/047.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/048.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/049.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/050.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/051.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/052.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/053.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/054.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/055.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/056.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/057.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/058.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/059.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/060.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/061.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/062.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/063.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/064.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/065.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/066.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/067.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/068.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/069.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/070.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/071.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/ex001.cpp">
+			<Option target="Cpp200"/>
+		</Unit>
+		<Unit filename="/Users/charles/Documents/GitHub/Cpp200/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
